@@ -9,7 +9,7 @@ Olá! Sou estudante de Engenharia de Software com foco no desenvolvimento de jog
 ## 🚀 Projetos em Destaque
 
 ### 🦜 Paraquito (João Nogueron)
-* **Descrição:** Jogo de plataforma 2D desenvolvido do zero, com movimentação fluida, mecânicas de física, suporte a controles e chefes com padrões dinâmicos.
+* **Descrição:** Jogo de plataforma 2D desenvolvido do zero, com movimentação fluida, mecânicas de físicas e chefes com padrões dinâmicos.
 * **Tecnologias:** Unity, C#, Spritesheet Animation, Tiled.
 * **Status:** Concluído e publicado.
 * **Links:** [Acessar na Steam](https://store.steampowered.com/app/paraquito) | [Acessar no Itch.io](https://seu-link.itch.io/paraquito)
