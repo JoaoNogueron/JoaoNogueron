@@ -40,4 +40,4 @@ Olá! Sou estudante de Engenharia de Software com foco no desenvolvimento de jog
 ## 📬 Contato e Redes
 
 * **GitHub:** [github.com/JoaoNogueron](https://github.com/JoaoNogueron)
-* **Marca/Estúdio: João Nogueron
+* **Marca/Estúdio:** João Nogueron
