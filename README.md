@@ -2,7 +2,7 @@
 
 > **Software Engineering Student | Game Developer | Content Creator**
 
-Olá! Sou estudante de Engenharia de Software com foco no desenvolvimento de jogos independentes (2D), automação em Python e criação de conteúdo. Abaixo estão os principais projetos do meu portfólio.
+Olá! Sou estudante de Engenharia de Software com foco no desenvolvimento de jogos independentes (2D), automação em Python e criação de conteúdo. Abaixo estão os principais projetos do meu portfólio. 
 
 ---
 
